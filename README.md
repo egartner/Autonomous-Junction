@@ -5,7 +5,7 @@
 The goal of this project is to create an autonomous junction using EV3 robots. We have at our disposal a track and the robots must be able to follow the road which is an 8-shaped black line and they should detect other robots in front of them to keep a safe distance.
 The challenging part is to make the robots not collide at the junction of the track.
 
-![Alt text](junction.jpg?raw=true "Junction")
+![Alt text](https://raw.githubusercontent.com/egartner/Autonomous-Junction/master/junction.png)
 
 ## Implementation
 
